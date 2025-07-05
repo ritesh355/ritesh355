@@ -8,7 +8,7 @@
 - 🔭 I'm currently learning **Linux, Git, Docker, Jenkins, AWS, GitHub Actions**
 - 🌱 Exploring **Terraform, Kubernetes**, and building **CI/CD pipelines**
 - 💡 I love automating tasks, optimizing deployments, and working with cloud-native tool
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/ritesh-singh-092b84340)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ritesh-singh-092b84340)
 
 ---
 
@@ -38,7 +38,7 @@ Here are a few projects I'm working on or planning to build:
 
 ### 🔗 Let's Connect
 
-- 💼 [LinkedIn](linkedin.com/in/ritesh-singh-092b84340)
+- 💼 [LinkedIn](https://linkedin.com/in/ritesh-singh-092b84340)
 
 ---
 

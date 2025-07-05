@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ritesh Singh</h1>
+<h3 align="center">Aspiring DevOps Engineer | Passionate About Automation, Cloud & CI/CD</h3>
 
-<!--
-**ritesh355/ritesh355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently learning **Linux, Git, Docker, Jenkins, AWS, GitHub Actions**
+- 🌱 Exploring **Terraform, Kubernetes**, and building **CI/CD pipelines**
+- 💡 I love automating tasks, optimizing deployments, and working with cloud-native tool
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/ritesh-singh-092b84340)
+
+---
+
+### 🛠️ Tools & Technologies
+
+![Linux](https://img.shields.io/badge/Linux-Fundamentals-blue)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-yellow)
+![GitHub Actions](https://img.shields.io/badge/GitHubActions-Automation-brightgreen)
+![AWS](https://img.shields.io/badge/AWS-Beginner-lightgrey)
+![Terraform](https://img.shields.io/badge/Terraform-InProgress-purple)
+
+---
+
+### 📘 Projects
+
+Here are a few projects I'm working on or planning to build:
+
+- 🐧 Linux Shell Automation Scripts
+- 📦 Dockerized Web Apps
+- 🚀 Jenkins CI/CD Pipeline Demo
+- ☁️ Deploying apps on AWS EC2 with Terraform
+- 📊 System Monitoring with Prometheus + Grafana *(coming soon)*
+
+---
+
+### 🔗 Let's Connect
+
+- 💼 [LinkedIn](linkedin.com/in/ritesh-singh-092b84340)
+
+---
+
+> ⚡ “Keep learning, keep building, and stay consistent!”

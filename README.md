@@ -9,10 +9,8 @@
 - 🌱 Exploring **Terraform, Kubernetes**, and building **CI/CD pipelines**
 - 💡 I love automating tasks, optimizing deployments, and working with cloud-native tool
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ritesh-singh-092b84340)
-- ## 🌐 My Blog on Hashnode
+- 📖 I’m documenting my DevOps journey in detail here: [ritesh-devops.hashnode.dev](https://ritesh-devops.hashnode.dev)
 
-📖 I’m documenting my DevOps journey in detail here:  
-👉 [ritesh-devops.hashnode.dev](https://ritesh-devops.hashnode.dev)
 
 
 ---

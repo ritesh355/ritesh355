@@ -39,9 +39,21 @@ Here are a few projects I'm working on or planning to build:
 
 ---
 
-### 🔗 Let's Connect
+## 🛠️ Projects I'm Proud Of
 
-- 💼 [LinkedIn](https://linkedin.com/in/ritesh-singh-092b84340)
+| Project | Description |
+|--------|-------------|
+[📘 DevOps Journal](https://github.com/ritesh355/Devops-journal) | Daily logs of 100 Days of DevOps journey  
+[🐚 Shell Script Projects](https://github.com/ritesh355/shell-script-projects) | Bash automation scripts: backup, system report  
+[🔁 Git Practice Lab](https://github.com/ritesh355/git-practice-lab) | Mastering Git through branching, merging & conflict resolution  
+
+---
+
+## 📢 Follow My Journey
+
+- ✍️ Hashnode Blog: [ritesh-devops.hashnode.dev](https://ritesh-devops.hashnode.dev)
+- 💼 LinkedIn: [linkedin.com/in/ritesh-singh-092b84340](https://www.linkedin.com/in/ritesh-singh-092b84340)
+- 🧑‍💻 GitHub: [github.com/ritesh355](https://github.com/ritesh355)
 
 ---
 

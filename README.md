@@ -94,6 +94,4 @@
 </p>
 
 ---
-
-![AWS]:(https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 > ⚡ *“Keep learning, keep building, and stay consistent!”*

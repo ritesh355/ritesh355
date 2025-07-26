@@ -24,6 +24,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
@@ -61,7 +62,6 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [DevOps Journal](https://github.com/ritesh355/Devops-journal) | My daily DevOps journey with logs and explanations | Markdown, Linux, Git |
-| 🔁 [Git Practice Lab](https://github.com/ritesh355/git-practice-lab) | Git branching, merging, and conflict resolution |
 | 🐚 [Shell Script Projects](https://github.com/ritesh355/shell-script-projects) | Bash automation scripts: backups, sysinfo reports |
 | [Weather App](https://github.com/ritesh355/weather-app) | Flask app behind Nginx, containerizehttps://github.com/ritesh355/weather-appd with Docker Compose | Flask, Nginx, Docker |
 | [To-Do App](https://github.com/ritesh355/Dockerized-todo-app) | To-Do Node.js app deployed with Docker Compose | Node.js, MongoDB, Docker |

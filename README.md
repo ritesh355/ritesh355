@@ -33,13 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight)
-
----
-
 ### 🧑‍💻 Programming & Scripting
 
 <p align="center">
@@ -60,6 +53,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight)
 
 ---
 

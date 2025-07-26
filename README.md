@@ -15,7 +15,6 @@
 
 ### 🛠️ Tools & Technologies
 
-**DevOps & Cloud:**
 ![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)

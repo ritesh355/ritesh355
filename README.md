@@ -13,7 +13,7 @@
 - 🔭 Currently learning: **Linux**, **Git**, **Docker**, **Jenkins**, **AWS**, **GitHub Actions**
 - 🌱 Exploring: **Terraform**, **Kubernetes**, and building **CI/CD pipelines**
 - 💡 Passionate about automation, cloud-native tools, and optimizing deployment
-- **📖 Documenting my DevOps journey:** <a href="https://ritesh-devops.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+- **📖 Documenting my DevOps journey:** <a href="https://ritesh-devops.hashnode.dev" target="_blank"><img src=" https://play-lh.googleusercontent.com/NhWlAT4TbjIjirMZfl77W2B8Y1P0gpSNTui6aQYUXJNMhbe8OrUhnfjtccRF3eNFkRo=w240-h480" alt="Hashnode" /></a>
 - **📫 How to reach me:**  <a href="https://linkedin.com/in/ritesh-singh-092b84340" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 

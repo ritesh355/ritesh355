@@ -41,6 +41,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
+
+
 ---
 ### 📚 Skills Overview
 
@@ -64,17 +66,6 @@
 | 📊 **Monitoring with Prometheus + Grafana** | Real-time metrics (coming soon) |
 
 ---
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [DevOps Journal](https://github.com/ritesh355/Devops-journal) | My daily DevOps journey with logs and explanations | Markdown, Linux, Git |
-| 🐚 [Shell Script Projects](https://github.com/ritesh355/shell-script-projects) | Bash automation scripts: backups, sysinfo reports |
-| [Weather App](https://github.com/ritesh355/weather-app) | Flask app behind Nginx, containerizehttps://github.com/ritesh355/weather-appd with Docker Compose | Flask, Nginx, Docker |
-| [To-Do App](https://github.com/ritesh355/Dockerized-todo-app) | To-Do Node.js app deployed with Docker Compose | Node.js, MongoDB, Docker |
-
----
-
 
 ### 📢 Follow My Journey
 

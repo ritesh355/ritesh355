@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Singh</h1>
 <h3 align="center">🚀 Aspiring DevOps Engineer | ☁️ Cloud & CI/CD | 🔁 Automation Enthusiast</h3>
-
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=ritesh355&label=Profile%20views&color=0e75b6&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=ritesh355&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh355" />
 </p>
 
 

@@ -77,10 +77,11 @@
 
 
 ### 📢 Follow My Journey
+📢 Follow My Journey
 
-- ✍️ Blog: [ritesh-devops.hashnode.dev](https://ritesh-devops.hashnode.dev)
-- 💼 LinkedIn: [linkedin.com/in/ritesh-singh-092b84340](https://linkedin.com/in/ritesh-singh-092b84340)
-- 🧑‍💻 GitHub: [github.com/ritesh355](https://github.com/ritesh355)
+[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ritesh-devops.hashnode.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-singh-092b84340)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritesh355)
 
 ---
 

@@ -12,8 +12,9 @@
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ritesh-singh-092b84340)
 
 ---
-
 ### 🛠️ Tools & Technologies
+
+**DevOps & Cloud:**
 
 ![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -23,10 +24,14 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 
+**Programming:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+
+**Web & Backend:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -34,7 +39,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-
+---
 ### 📚 Skills Overview
 
 - 🐧 **OS**: Linux (Ubuntu, CentOS)

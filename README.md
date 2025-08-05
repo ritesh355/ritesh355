@@ -1,16 +1,16 @@
+<!-- One-time animation (name only) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Singh" alt="Ritesh Singh Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000000&color=000000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Singh" alt="Ritesh Singh Name Animation" />
 </p>
 
+<!-- Static name in bold below (black and solid) -->
+<h1 align="center" style="color:black;"><strong>Ritesh Singh</strong></h1>
+
+<!-- Looping roles -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00BFFF&width=750&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast" alt="Typing Roles Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00BFFF&width=750&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast" alt="Typing Roles Animation" />
 </p>
 
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritesh355&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh355" />
-</p>
 
 
 

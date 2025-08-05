@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=1000&center=true&vCenter=true&color=00BFFF&width=750&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast&repeat=false" alt="Typing DevOps Roles" onerror="this.style.display='none'" />
 </p>
 
-<p align="center">
-  <strong>🚀 Aspiring DevOps Engineer</strong><br>
-  <strong>☁️ Cloud | CI/CD | GitHub Actions</strong><br>
-  <strong>🔁 Automation | Docker | Jenkins</strong><br>
-  <strong>❤️ Open Source | Linux Enthusiast</strong>
-</p>
-
 
 
 ---

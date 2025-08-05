@@ -1,6 +1,9 @@
+<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Ritesh Singh</span></h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=00BFFF&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Singh;Aspiring+DevOps+Engineer+%F0%9F%9A%80;Cloud+%E2%98%81%EF%B8%8F+%7C+CI%2FCD+%F0%9F%94%81+%7C+Monitoring;Automation+Enthusiast+%F0%9F%94%81+%7C+Open+Source+Lover+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00BFFF&width=750&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ritesh355&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh355" />

@@ -11,25 +11,13 @@
 ---
 ## 🚀 About Me
 
-<div align="center">
+- 🌟 I'm currently on **Day 4** of my **100 Days of DevOps** journey.  
+- ✅ Currently mastering **Linux**, **Git**, **Docker**, and **GitHub Actions** — including building and automating CI/CD pipelines that push Docker images to **Docker Hub**.  
+- 🌱 Now diving into **Jenkins**, **Terraform**, **Kubernetes**, and **AWS** to build scalable, cloud-native DevOps solutions.  
+- 💡 Passionate about **automation**, **cloud technologies**, and **open source** — I love optimizing deployments and streamlining workflows.  
+- 📘 I'm documenting everything I learn to help others and reinforce my own knowledge along the way.
 
-🌟 On <strong>Day 40</strong> of my <strong>100 Days of DevOps</strong> journey  
-📦 Currently mastering: <code><strong>Linux</strong></code>, <code><strong>Git</strong></code>, <code><strong>Docker</strong></code>, and <code><strong>GitHub Actions</strong></code>  
-🔁 Automating CI/CD pipelines – building & pushing Docker images to Docker Hub
-
-<br/>
-
-🌱 Learning <code><strong>Jenkins</strong></code>, <code><strong>Terraform</strong></code>, <code><strong>Kubernetes</strong></code>, and <code><strong>AWS</strong></code>  
-☁️ On a mission to build scalable, cloud-native DevOps solutions
-
-<br/>
-
-💡 I’m passionate about <strong>Automation</strong>, <strong>Cloud</strong>, and <strong>Open Source</strong>  
-🚀 Constantly optimizing deployments & streamlining workflows
-
-</div>
-
-### 📖 Documenting My DevOps Journey
+- #### 📖 Documenting My DevOps Journey
 
 [![Hashnode Badge](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ritesh-devops.hashnode.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-singh-092b84340)

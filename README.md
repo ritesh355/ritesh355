@@ -71,17 +71,6 @@
 
 ---
 
-### 📚 Skills Overview
-
-- 🐧 **OS**: Linux (Ubuntu, CentOS)
-- 💻 **Languages**: Python, Bash (Shell), C++, JavaScript, HTML, CSS
-- 🐳 **Containers**: Docker, Docker Compose
-- ⚙️ **CI/CD**: Jenkins, GitHub Actions
-- ☁️ **Cloud**: AWS (EC2, S3), Terraform (Infrastructure as Code)
-- 🔍 **Monitoring**: Prometheus + Grafana (Coming Soon)
-
----
-
 ### 📘 Projects I'm Working On
 
 | Project | Description |

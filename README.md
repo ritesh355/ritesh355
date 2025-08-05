@@ -10,11 +10,24 @@
 
 ---
 ## 🚀 About Me
-<p align="center">
-- 🔭 On <strong>Day 40</strong> of my <strong>100 Days of DevOps</strong> journey, I'm mastering <strong>Linux</strong>, <strong>Git</strong>, <strong>Docker</strong>, and <strong>GitHub Actions</strong> to build seamless CI/CD pipelines,    including automating Docker image builds and deployments to Docker Hub.<br>
-- 🌱 Exploring <strong>Jenkins</strong>, <strong>Terraform</strong>, <strong>Kubernetes</strong>, and <strong>AWS</strong> to create scalable, cloud-native solutions.<br>
--  💡 Passionate about <strong>automation</strong>, <strong>cloud technologies</strong>, and <strong>open-source</strong>, I'm driven to optimize deployments and streamline workflows!
-</p>
+
+<div align="center">
+
+🌟 On <strong>Day 40</strong> of my <strong>100 Days of DevOps</strong> journey  
+📦 Currently mastering: <code><strong>Linux</strong></code>, <code><strong>Git</strong></code>, <code><strong>Docker</strong></code>, and <code><strong>GitHub Actions</strong></code>  
+🔁 Automating CI/CD pipelines – building & pushing Docker images to Docker Hub
+
+<br/>
+
+🌱 Learning <code><strong>Jenkins</strong></code>, <code><strong>Terraform</strong></code>, <code><strong>Kubernetes</strong></code>, and <code><strong>AWS</strong></code>  
+☁️ On a mission to build scalable, cloud-native DevOps solutions
+
+<br/>
+
+💡 I’m passionate about <strong>Automation</strong>, <strong>Cloud</strong>, and <strong>Open Source</strong>  
+🚀 Constantly optimizing deployments & streamlining workflows
+
+</div>
 
 ### 📖 Documenting My DevOps Journey
 

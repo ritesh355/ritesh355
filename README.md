@@ -1,8 +1,12 @@
 <p align="center">
-  <span style="font-weight: bold; font-size: 36px;">Hi</span>
-  <span style="font-size: 36px;"> 👋, </span>
-  <span style="font-style: italic; font-size: 36px;">I'm</span>
-  <span style="font-family: 'Courier New', monospace; color: #00BFFF; font-size: 36px;"> Ritesh Singh</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=9999999&color=000000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Singh" alt="Typing Name Once" onerror="this.style.display='none'" />
+</p>
+
+<p align="center">
+  <span style="font-weight: bold; font-size: 24px;">Hi</span>
+  <span style="font-size: 24px;"> 👋, </span>
+  <span style="font-style: italic; font-size: 24px;">I'm</span>
+  <span style="font-family: 'Courier New', monospace; color: #00BFFF; font-size: 24px;"> Ritesh Singh</span>
 </p>
 
 <p align="center">

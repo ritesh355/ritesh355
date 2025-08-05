@@ -10,12 +10,11 @@
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Currently learning: **Linux**, **Git**, **Docker**, **Jenkins**, **AWS**, **GitHub Actions**
-- 🌱 Exploring: **Terraform**, **Kubernetes**, and building **CI/CD pipelines**
-- 💡 Passionate about automation, cloud-native tools, and optimizing deployment
-
+<p align="center">
+  🔭 On <strong>Day 40</strong> of my <strong>100 Days of DevOps</strong> journey, I'm mastering <strong>Linux</strong>, <strong>Git</strong>, <strong>Docker</strong>, and <strong>GitHub Actions</strong> to build seamless CI/CD pipelines, including automating Docker image builds and deployments to Docker Hub.<br>
+  🌱 Exploring <strong>Jenkins</strong>, <strong>Terraform</strong>, <strong>Kubernetes</strong>, and <strong>AWS</strong> to create scalable, cloud-native solutions.<br>
+  💡 Passionate about <strong>automation</strong>, <strong>cloud technologies</strong>, and <strong>open-source</strong>, I'm driven to optimize deployments and streamline workflows!
+</p>
 - ### 📖 Documenting My DevOps Journey
 
 [![Hashnode Badge](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ritesh-devops.hashnode.dev)

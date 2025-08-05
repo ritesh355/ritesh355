@@ -1,19 +1,23 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=9999999&color=000000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Singh" alt="Typing Name Once" />
 </p>
-
 <!-- One-time DevOps roles animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000000&center=true&vCenter=true&color=00BFFF&width=750&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast" alt="Typing DevOps Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=6000&pause=1000000&center=true&vCenter=true&color=00BFFF&width=750&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast" alt="Typing DevOps Roles" />
 </p>
 
-<!-- Static roles isplayed after animation -->
-<p align="center">
-  <strong>🚀 Aspiring DevOps Engineer</strong><br>
-  <strong>☁️ Cloud | CI/CD | GitHub Actions</strong><br>
-  <strong>🔁 Automation | Docker | Jenkins</strong><br>
-  <strong>❤️ Open Source | Linux Enthusiast</strong>
-</p>
+<!-- Manual reveal below animation -->
+<details>
+  <summary align="center"><strong>🔽 View My DevOps Roles</strong></summary>
+  <p align="center">
+    <br>
+    <strong>🚀 Aspiring DevOps Engineer</strong><br>
+    <strong>☁️ Cloud | CI/CD | GitHub Actions</strong><br>
+    <strong>🔁 Automation | Docker | Jenkins</strong><br>
+    <strong>❤️ Open Source | Linux Enthusiast</strong>
+  </p>
+</details>
+
 
 
 

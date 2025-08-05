@@ -3,13 +3,6 @@
 </p>
 
 <p align="center">
-  <span style="font-weight: bold; font-size: 24px;">Hi</span>
-  <span style="font-size: 24px;"> 👋, </span>
-  <span style="font-style: italic; font-size: 24px;">I'm</span>
-  <span style="font-family: 'Courier New', monospace; color: #00BFFF; font-size: 24px;"> Ritesh Singh</span>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=1000&center=true&vCenter=true&color=00BFFF&width=750&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast" alt="Typing DevOps Roles" onerror="this.style.display='none'" />
 </p>
 

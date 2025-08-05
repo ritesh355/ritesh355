@@ -15,7 +15,8 @@
 - 🌱 Exploring <strong>Jenkins</strong>, <strong>Terraform</strong>, <strong>Kubernetes</strong>, and <strong>AWS</strong> to create scalable, cloud-native solutions.<br>
 -  💡 Passionate about <strong>automation</strong>, <strong>cloud technologies</strong>, and <strong>open-source</strong>, I'm driven to optimize deployments and streamline workflows!
 </p>
-- ### 📖 Documenting My DevOps Journey
+
+### 📖 Documenting My DevOps Journey
 
 [![Hashnode Badge](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ritesh-devops.hashnode.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-singh-092b84340)

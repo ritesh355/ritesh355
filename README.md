@@ -98,7 +98,8 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&center=true&vCenter=true&width=900&color=0A4D68&lines=⚡+Keep+learning,+keep+building,+and+stay+consistent!;🚀+Every+line+of+code+brings+you+closer+to+mastery;🔁+Consistency+is+the+key+to+DevOps+success;💡+Never+stop+automating,+never+stop+learning" alt="Typing animation quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&center=true&vCenter=true&width=900&color=0A4D68&lines=⚡+Keep+learning,+keep+building,+and+stay+consistent!" alt="Typing animation quote" />
 </p>
+
 
 

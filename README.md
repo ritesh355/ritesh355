@@ -98,9 +98,8 @@
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_Keep_learning,_keep_building,_and_stay_consistent!-0A4D68?style=for-the-badge&logoColor=white&labelColor=black&color=0A4D68" alt="Motivational Quote Badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&center=true&vCenter=true&width=900&color=0A4D68&lines=%E2%9A%A1+Keep+learning%2C+keep+building%2C+and+stay+consistent!" alt="Typing animation quote" />
 </p>
-
 
 
 

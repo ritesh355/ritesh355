@@ -97,4 +97,7 @@
 </p>
 
 ---
-> ⚡ *“Keep learning, keep building, and stay consistent!”*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=⚡+Keep+learning%2C+keep+building%2C+and+stay+consistent!" alt="Motivational Typing Animation" />
+</p>
+

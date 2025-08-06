@@ -11,7 +11,7 @@
 ---
 ## 🚀 About Me
 
-- 🌟 I'm currently on **Day 4** of my **100 Days of DevOps** journey.  
+- 🌟 I'm currently on **Day 40** of my **100 Days of DevOps** journey.  
 - ✅ Currently mastering **Linux**, **Git**, **Docker**, and **GitHub Actions** — including building and automating CI/CD pipelines that push Docker images to **Docker Hub**.  
 - 🌱 Now diving into **Jenkins**, **Terraform**, **Kubernetes**, and **AWS** to build scalable, cloud-native DevOps solutions.  
 - 💡 Passionate about **automation**, **cloud technologies**, and **open source** — I love optimizing deployments and streamlining workflows.  
@@ -65,7 +65,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 ![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight)
 

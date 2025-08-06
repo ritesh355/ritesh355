@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5500&pause=800&center=true&vCenter=true&color=1E2F97&width=750&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast" alt="Typing DevOps Roles" onerror="this.style.display='none'" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5500&pause=800&center=true&vCenter=true&color=1E2F97&width=780&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast" alt="Typing DevOps Roles" onerror="this.style.display='none'" />
 </p>
 
 
@@ -98,7 +98,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&center=true&vCenter=true&width=900&color=0A4D68&lines=%E2%9A%A1+Keep+learning%2C+keep+building%2C+and+stay+consistent!" alt="Typing animation quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&center=true&vCenter=true&width=900&color=000000&lines=%E2%9A%A1+Keep+learning%2C+keep+building%2C+and+stay+consistent!" alt="Typing animation quote" />
 </p>
 
 

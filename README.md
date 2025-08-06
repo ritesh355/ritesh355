@@ -98,6 +98,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=⚡+Keep+learning%2C+keep+building%2C+and+stay+consistent!" alt="Motivational Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=100000&color=00FFAA&center=true&vCenter=true&width=800&lines=⚡+Keep+learning,+keep+building,+and+stay+consistent!" alt="Typing animation quote" />
 </p>
+
 

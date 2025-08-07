@@ -95,17 +95,6 @@
 
 ---
 
-### 📘 Projects I'm Working On
-
-| Project | Description |
-|--------|-------------|
-| 🐧 **Linux Shell Automation** | Bash scripts for system backups, monitoring, and automation |
-| 📦 **Dockerized Web Apps** | Running Flask, Node.js apps with Docker & Nginx |
-| 🚀 **Jenkins CI/CD Pipeline** | End-to-end automation for building & deploying apps |
-| ☁️ **AWS + Terraform** | Infrastructure-as-Code to deploy EC2 apps |
-| 📊 **Monitoring with Prometheus + Grafana** | Real-time metrics (coming soon) |
-
----
 
 ### 📢 Follow My Journey
 

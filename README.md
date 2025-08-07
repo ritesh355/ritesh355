@@ -112,7 +112,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&center=true&vCenter=true&width=900&color=630404&lines=%E2%9A%A1+Keep+learning%2C+keep+building%2C+and+stay+consistent!" alt="Typing animation quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&center=true&vCenter=true&width=850&color=630404&lines=%E2%9A%A1+Keep+learning%2C+keep+building%2C+and+stay+consistent!" alt="Typing animation quote" />
 </p>
 
 

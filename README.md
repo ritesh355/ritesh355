@@ -123,8 +123,9 @@
 </p>
 
 ---
-![motto](https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=28&fontColor=39FF14&animation=fadeIn&fontAlignY=35)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=⚡%20Keep%20learning,%20keep%20building,%20stay%20consistent&fontSize=28&fontColor=39FF14&animation=fadeIn&fontAlignY=35" alt="Motto Banner" />
+</p>
 
 
 

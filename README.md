@@ -90,22 +90,20 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- Profile Visitor Counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ritesh355&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" />
-</p>
-
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
----
+
 <!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
+<!-- Profile Visitor Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ritesh355&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" />
+</p>
 
 ---
 

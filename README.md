@@ -1,32 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=35&fontColor=ffffff&animation=scaleIn&fontAlignY=35&font=monospace)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5500&pause=800&center=true&vCenter=true&color=1E2F97&width=800&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast" alt="Typing DevOps Roles" onerror="this.style.display='none'" />
 </p>
 
-
-
 ---
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,12&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-
----
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,6&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-
----
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=40&fontColor=ffffff&animation=scaleIn&fontAlignY=35)
-
----
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=250&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-
----
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=40&fontColor=E0E0E0&animation=fadeIn&fontAlignY=35)
-
----
-
-
 
 ## 🚀 About Me
 

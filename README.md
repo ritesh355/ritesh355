@@ -1,27 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20&fontSize=35&fontColor=ffffff&animation=scaleIn&fontAlignY=35&font=monospace)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5500&pause=800&center=true&vCenter=true&color=1E2F97&width=800&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast" alt="Typing DevOps Roles" onerror="this.style.display='none'" />
-</p>
 
----
-
-<p align="center">
+ <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=5000&pause=1000&center=true&vCenter=true&color=00C4B4&width=800&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast" alt="Typing DevOps Roles" onerror="this.style.display='none'" />
 </p>
 
----
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=26&duration=5200&pause=900&center=true&vCenter=true&color=00FF7F&width=800&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast" alt="Typing DevOps Roles" onerror="this.style.display='none'" />
-</p>
 
----
-
-<p align="center">
-  <div style="background: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 5px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=5000&pause=1000&center=true&vCenter=true&color=00C4B4&width=800&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast" alt="Typing DevOps Roles" onerror="this.style.display='none'" />
-  </div>
-</p>
 
 ## 🚀 About Me
 

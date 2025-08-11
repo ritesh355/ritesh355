@@ -8,6 +8,9 @@
 
 
 ---
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,12&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
+---
 
 ## 🚀 About Me
 

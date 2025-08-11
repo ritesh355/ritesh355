@@ -14,6 +14,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ---
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=35&fontColor=ffffff&animation=scaleIn&fontAlignY=35&font=monospace)
+
+---
 ## 🚀 About Me
 
 - 🌟 I'm currently on **Day 40** of my **100 Days of DevOps** journey.  

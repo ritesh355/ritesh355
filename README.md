@@ -15,6 +15,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,6&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ---
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=40&fontColor=ffffff&animation=scaleIn&fontAlignY=35)
+
+---
 
 
 

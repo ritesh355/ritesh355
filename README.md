@@ -1,13 +1,11 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20&fontSize=35&fontColor=ffffff&animation=scaleIn&fontAlignY=35&font=monospace)
-<p align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=35&fontColor=ffffff&animation=scaleIn&fontAlignY=35&font=JetBrains+Mono)
 
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=5000&pause=1000&center=true&vCenter=true&color=00C4B4&width=800&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast" alt="Typing DevOps Roles" onerror="this.style.display='none'" />
 </p>
 
 ---
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=35&fontColor=ffffff&animation=scaleIn&fontAlignY=35&font=JetBrains+Mono)
 
 ## 🚀 About Me
 

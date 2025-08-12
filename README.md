@@ -9,13 +9,13 @@
 </p>
 
 ---
-## 🚀 About Me
 
-- 🌟 I'm currently on **Day 40** of my **100 Days of DevOps** journey.  
-- ✅ Currently mastering **Linux**, **Git**, **Docker**, and **GitHub Actions** — including building and automating CI/CD pipelines that push Docker images to **Docker Hub**.  
-- 🌱 Now diving into **Jenkins**, **Terraform**, **Kubernetes**, and **AWS** to build scalable, cloud-native DevOps solutions.  
-- 💡 Passionate about **automation**, **cloud technologies**, and **open source** — I love optimizing deployments and streamlining workflows.  
-- 📘 I'm documenting everything I learn to help others and reinforce my own knowledge along the way.
+## 👋 About Me
+- 📅 **Currently on Day 40** of my **100 Days of DevOps** journey.  
+- ⚙️ Mastering **Linux**, **Git**, **Docker**, **GitHub Actions**, and building automated CI/CD pipelines deploying to **Docker Hub**.  
+- 📦 Learning **Jenkins**, **Terraform**, **Kubernetes**, and **AWS** for scalable, cloud-native solutions.  
+- 📝 Sharing everything I learn via blogs & GitHub projects to help others grow in DevOps.  
+- 🎯 **Goal:** Become a **Pro DevOps Engineer** specializing in automation, cloud, and CI/CD.
 
 ---
 

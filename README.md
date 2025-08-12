@@ -17,11 +17,6 @@
 - 💡 Passionate about **automation**, **cloud technologies**, and **open source** — I love optimizing deployments and streamlining workflows.  
 - 📘 I'm documenting everything I learn to help others and reinforce my own knowledge along the way.
 
-- #### 📖 Documenting My DevOps Journey
-
-[![Hashnode Badge](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ritesh-devops.hashnode.dev)
-[![LinkedIn Badge](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-singh-092b84340)
-
 ---
 
 
@@ -103,6 +98,10 @@
 <!-- Profile Visitor Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ritesh355&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark" alt="Activity Graph" width="90%" />
 </p>
 
 ---

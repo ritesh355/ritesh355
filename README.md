@@ -95,13 +95,13 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-<!-- Profile Visitor Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ritesh355&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark" alt="Activity Graph" width="90%" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ritesh355&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" />
 </p>
 
 ---

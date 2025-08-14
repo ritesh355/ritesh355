@@ -88,7 +88,7 @@
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight&nocache=1" height="165" />
 </p>
 
 <!-- GitHub Streak Stats -->

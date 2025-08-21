@@ -11,7 +11,7 @@
 ---
 
 ## 👋 About Me
-- 📅 **Currently on Day 40** of my **100 Days of DevOps** journey.  
+- 📅 **Currently on Day 47** of my **100 Days of DevOps** journey.  
 - ⚙️ Mastering **Linux**, **Git**, **Docker**, **GitHub Actions**, and building automated CI/CD pipelines deploying to **Docker Hub**.  
 - 📦 Learning **Jenkins**, **Terraform**, **Kubernetes**, and **AWS** for scalable, cloud-native solutions.  
 - 📝 Sharing everything I learn via blogs & GitHub projects to help others grow in DevOps.  

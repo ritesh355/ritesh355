@@ -99,7 +99,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=tokyonight" alt="Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark" alt="Activity Graph" width="90%" />
 </p>
 
 <p align="left">

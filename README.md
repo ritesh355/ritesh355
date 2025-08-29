@@ -91,9 +91,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight&nocache=1" height="165" />
 </p>
 
-<!-- GitHub Streak Stats -->
-
-[![GitHub Streak](https://github-readme-streak-stats-theta-hazel.vercel.app?user=ritesh355&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-theta-hazel.vercel.app?user=ritesh355&theme=meta-dark" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 <p align="center">

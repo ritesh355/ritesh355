@@ -92,9 +92,7 @@
 </p>
 
 <!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark" alt="Activity Graph" width="90%" />
@@ -107,7 +105,7 @@
 ---
 ## 🏆 GitHub Trophies
 
-<p align="center" style="margin-bottom: 1.5rem;">
+<p align="center" style="margin-bottom: 1.5 rem;">
   <img src="https://github-profile-trophy.vercel.app/?username=ritesh355&theme=radical&no-frame=true&column=8" alt="GitHub Trophies" />
 </p>
 

@@ -96,6 +96,7 @@
 <p align="center">
   <img src="https://your-deployment.vercel.app/api?username=ritesh355&theme=radical" alt="My GitHub Streak Card" />
 </p>
+
 ---
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark" alt="Activity Graph" width="90%" />

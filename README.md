@@ -92,9 +92,9 @@
 </p>
 
 <!-- GitHub Streak Stats -->
-<p align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats-theta-hazel.vercel.app?user=ritesh355&theme=tokyonight)](https://git.io/streak-stats)
-</p>
+
 ---
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark" alt="Activity Graph" width="90%" />

@@ -92,10 +92,7 @@
 </p>
 
 <!-- GitHub Streak Stats -->
-
-<p align="center">
-  <img src="https://your-deployment.vercel.app/api?username=ritesh355&theme=radical" alt="My GitHub Streak Card" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats-theta-hazel.vercel.app?user=ritesh355&theme=radical)](https://git.io/streak-stats)
 
 ---
 <p align="center">

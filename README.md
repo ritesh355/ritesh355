@@ -10,6 +10,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://your-deployment.vercel.app/api?username=ritesh355&theme=radical" alt="My GitHub Streak Card" />
+</p>
+
 ## 👋 About Me
 - 📅 **Currently on Day 47** of my **100 Days of DevOps** journey.  
 - ⚙️ Mastering **Linux**, **Git**, **Docker**, **GitHub Actions**, and building automated CI/CD pipelines deploying to **Docker Hub**.  

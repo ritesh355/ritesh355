@@ -109,9 +109,8 @@
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://my-github-trophy.vercel.app/?username=ritesh355&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
-</p>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ritesh355&theme=radical&column=4&no-frame=true)
 
 
 

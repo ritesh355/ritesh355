@@ -108,6 +108,9 @@
 ---
 
 ## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://your-trophy-instance.vercel.app/?username=ritesh355&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
+</p>
 
 ---
 

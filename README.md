@@ -110,8 +110,9 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://my-github-streak.vercel.app/?user=ritesh355&theme=radical" alt="GitHub Streak" />
+  <img src="https://my-github-trophy.vercel.app/?username=ritesh355&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
 </p>
+
 
 
 ---

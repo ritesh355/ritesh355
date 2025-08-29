@@ -110,7 +110,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-https://github-profile-trophy.vercel.app/?username=ritesh355&theme=tokyonight
+<img src="https://github-profile-trophy.vercel.app/?username=ritesh355&theme=tokyonight" />
 </p>
 
 ---

@@ -10,10 +10,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://your-deployment.vercel.app/api?username=ritesh355&theme=radical" alt="My GitHub Streak Card" />
-</p>
-
 ## 👋 About Me
 - 📅 **Currently on Day 47** of my **100 Days of DevOps** journey.  
 - ⚙️ Mastering **Linux**, **Git**, **Docker**, **GitHub Actions**, and building automated CI/CD pipelines deploying to **Docker Hub**.  
@@ -96,11 +92,10 @@
 </p>
 
 <!-- GitHub Streak Stats -->
-<!-- GitHub Streak Card -->
-<p align="center">
-  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api?username=ritesh355&theme=radical" alt="GitHub Streak Card" />
-</p>
 
+<p align="center">
+  <img src="https://your-deployment.vercel.app/api?username=ritesh355&theme=radical" alt="My GitHub Streak Card" />
+</p>
 ---
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark" alt="Activity Graph" width="90%" />

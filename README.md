@@ -92,9 +92,7 @@
 </p>
 
 <!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![Streak Card](https://v0-git-hub-streak-score-card-phi.vercel.app/api?username=ritesh355&theme=dark)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark" alt="Activity Graph" width="90%" />

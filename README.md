@@ -98,13 +98,6 @@
 </p>
 
 ---
- <!-- GitHub Streak -->
-  <img 
-    src="https://github-readme-streak-stats-theta-hazel.vercel.app?user=ritesh355&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-    height="150" 
-  />
-
 
 <p align="center">
   <  img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark" alt="Activity Graph" width="90%" />

@@ -109,7 +109,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ritesh355&theme=onedark&column=8&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ritesh355&theme=tokyonight&column=8&no-frame=true)
 
 
 

@@ -99,9 +99,13 @@
 
 
 ---
-
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <  img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark" alt="Activity Graph" width="90%" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark&bg_color=0d1117&hide_border=true&line=38bdae&point=ffffff" 
+    alt="GitHub Activity Graph" 
+    width="95%" 
+  />
 </p>
 
 <p align="left">

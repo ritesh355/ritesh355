@@ -56,6 +56,7 @@
   &nbsp;
  
 </p>
+
 ---
 
 ### 🧑‍💻 Programming & Scripting
@@ -94,6 +95,7 @@
     <img src="https://github-readme-streak-stats-theta-hazel.vercel.app?user=ritesh355&theme=tokyonight" alt="GitHub Streak" height="165"/>
   </a>
 </p>
+
 ---
 <!-- GitHub Activity Graph -->
 <p align="center">
@@ -116,17 +118,6 @@
     alt="GitHub Trophies" 
   />
 </p>
-
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=ritesh355&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" 
-    alt="GitHub Trophies" 
-    style="max-width: 100%; height: auto;" 
-  />
-</p>
-
-
 
 ---
 

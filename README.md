@@ -90,6 +90,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight&nocache=1" height="165" />
 </p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-theta-hazel.vercel.app?user=ritesh355&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">

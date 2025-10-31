@@ -91,8 +91,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight&nocache=1" height="165" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-theta-hazel.vercel.app?user=ritesh355&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
 </p>
+
 
 ---
 <!-- GitHub Activity Graph -->

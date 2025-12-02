@@ -11,11 +11,14 @@
 ---
 
 ## 👋 About Me
-- 📅 **Currently on Day 86** of my **100 Days of DevOps** journey.  
-- ⚙️ Mastering **Linux**, **Git**, **Docker**, **GitHub Actions**, and building automated CI/CD pipelines deploying to **Docker Hub**.  
-- 📦 Learning **Jenkins**, **Terraform**, **Kubernetes**, and **AWS** for scalable, cloud-native solutions.  
-- 📝 Sharing everything I learn via blogs & GitHub projects to help others grow in DevOps.  
-- 🎯 **Goal:** Become a **Pro DevOps Engineer** specializing in automation, cloud, and CI/CD.
+
+- 🚀 **Completed the 100 Days of DevOps Journey**, gaining hands-on experience across the DevOps ecosystem.  
+- ⚙️ Skilled in **Linux**, **Git**, **Docker**, **GitHub Actions**, and building automated CI/CD pipelines deploying to **Docker Hub**.  
+- 🛠️ Working with **Jenkins**, **Terraform**, **Kubernetes**, and **AWS** to build scalable, cloud-native and fully automated environments.  
+- 📚 Continuously learning advanced DevOps tools and real-world workflows to strengthen automation & cloud engineering skills.  
+- 📝 Sharing my knowledge through projects, blogs, and open-source contributions to help others grow in the DevOps community.  
+- 🎯 **Goal:** Become an expert **DevOps & Cloud Engineer** specializing in automation, infrastructure as code, and modern CI/CD practices.
+
 
 ---
 
